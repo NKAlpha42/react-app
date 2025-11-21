@@ -1,0 +1,30 @@
+.moviecard {
+  background-color: white;
+  padding: 10px;
+  width: 400px;
+  color: black;
+  box-shadow: 5px 10px aqua;
+  transition: all 0.25s ease-in-out;
+  margin-bottom: 25px;
+}
+
+.moviecard img {
+  width: 100%;
+}
+
+.moviecard:hover {
+  transform: scale(1.05);
+}
+
+.moviecard p {
+  /*top right bottom left*/
+  padding: 0px 10px 0px 30px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
