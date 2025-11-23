@@ -9,7 +9,7 @@ import PopularList from "./PopularList.jsx";
 import TopRated from "./TopRated";
 
 function App() {
-  const name = "Your Mom";
+  const name = "Gavv";
 
   return (
     <>
@@ -17,9 +17,12 @@ function App() {
       <header>
         <h1>Movies</h1>
         <p>
-          Lorem Ipsum is kinda boring ngl so I decided that I would just ramble here instead bc
-          like are you even gonna notice and tbh I need a break from coding cause
-          It's tricky so bing bang boom check this out!
+          This is a project coded using the React app and Visual Studio Code, via Javascript and CSS coding languages. 
+          It was then uploaded to Github, and then onto your computer where you now view it!
+           I created this for my college programming class, to serve as a way to show my skills and retrieve movie data from The Movie Database. 
+           Each tab should have different listings of movies, with the concession being a display of delicious candy snacks.
+           Credit for the data used goes to The Movie Database and I credit the skills here to my friends and teachers at Lethbridge Polytechnic,
+            for the knowledge they've so kindly passed onto me.
         </p>
       </header>
       <main>
