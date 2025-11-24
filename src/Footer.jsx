@@ -1,11 +1,12 @@
 import React from "react";
 import "./Footer.css";
+import logo from './assets/MovieDatabaseLogo.png';
 
 const Footer = () => {
   return (
     <footer>
       <p>Carefully made by Remi Russell</p>
-      <img src="src/assets/MovieDatabaseLogo.png" alt="Logo"></img>
+      <img src={logo} alt="Logo" />
       <p>API by The Movie Database</p>
     </footer>
   );
