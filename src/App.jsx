@@ -9,7 +9,7 @@ import PopularList from "./PopularList.jsx";
 import TopRated from "./TopRated";
 
 function App() {
-  const name = "Gavv";
+  const name = "Your Mom";
 
   return (
     <>
