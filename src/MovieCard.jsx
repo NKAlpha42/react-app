@@ -14,7 +14,7 @@ const MovieCard = ({ movie }) => {
 
         <div className="column">
           <h3>{movie.title}</h3>
-          <p>{movie.overview.slice(0, 100) + "..."}</p>
+          <p>{movie.overview.slice(0, 200) + "..."}</p>
         </div>
       </div>
     </div>
