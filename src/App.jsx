@@ -15,7 +15,7 @@ function App() {
     <>
       <Navbar />
       <header>
-        <h1>Movies NEW</h1>
+        <h1>Movies 1:13</h1>
         <p>
           This is a project coded using the React app and Visual Studio Code, via Javascript and CSS coding languages. 
           It was then uploaded to Github, and then onto your computer where you now view it!
