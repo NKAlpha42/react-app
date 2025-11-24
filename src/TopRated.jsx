@@ -32,5 +32,5 @@ const TopRatedList = () => {
   );
 };
 
-export default TopRated;
+export default TopRatedList;
 //https://api.themoviedb.org/3/movie/popular?api_key=55bb0acb46a61016543cb0c61a9101ab
