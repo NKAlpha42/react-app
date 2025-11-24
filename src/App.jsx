@@ -28,9 +28,9 @@ function App() {
       <main>
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/pop" element={<PopularList />} />
-          <Route path="/top" element={<TopRated />} />
-          <Route path="/candy" element={<CandyList />} />
+          <Route path="/Popular" element={<PopularList />} />
+          <Route path="/Rated" element={<TopRated />} />
+          <Route path="/Snacks" element={<CandyList />} />
         </Routes>
       </main>
       <Footer />
